@@ -1,4 +1,4 @@
-# tp1
+# Book Rental 
 
 ## Project setup
 ```
