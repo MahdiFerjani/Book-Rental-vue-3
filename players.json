@@ -1,0 +1,22 @@
+{
+  "players": [
+    {
+      "name": "MAHDI",
+      "score": 8,
+      "timing": 6,
+      "id": 3
+    },
+    {
+      "name": "mahdi",
+      "score": 80,
+      "timing": 4,
+      "id": 4
+    },
+    {
+      "name": "benjeddou",
+      "score": 70,
+      "timing": 31,
+      "id": 5
+    }
+  ]
+}
